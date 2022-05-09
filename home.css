@@ -1,0 +1,12 @@
+.nav{
+    border: 2px solid deepskyblue;
+    padding: 15px;
+    background-color: crimson;
+    margin: 15px;
+    color: black;}
+    li{
+        margin: 5px;
+        padding: 10px;
+        background-color: crimson;
+        font-family: "DejaVu Sans Mono", serif;
+    }
